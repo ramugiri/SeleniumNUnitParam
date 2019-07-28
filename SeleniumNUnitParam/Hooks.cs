@@ -7,7 +7,7 @@ using System;
 namespace SeleniumNUnitParam
 {
     //Enum for browserType
-    public enum BrowserType
+    public enum BrowerType
     {
         Chrome,
         Firefox,
